@@ -22,20 +22,20 @@ function Sidebar() {
           </Link>
           <Link>
             <RiFileCopyLine />
-            <h3>Project</h3>
+            <h3>Projelerimiz</h3>
           </Link>
           <Link>
             <FaWallet />
-            <h3>Price</h3>
+            <h3>Ücretler</h3>
           </Link>
           <Link>
             <AiOutlinePieChart />
-            <h3>Report</h3>
+            <h3>Raporlar</h3>
           </Link>
         </Links>
         <ContactContainer>
-          <span>Are you having problems?</span>
-          <a href="#">Contact Us</a>
+          <span>Bir problem mi yaşıyorsunuz?</span>
+          <a href="#">İletişim Kurun</a>
         </ContactContainer>
       </LinksContainer>
     </Container>

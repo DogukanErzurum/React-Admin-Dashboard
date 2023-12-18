@@ -10,9 +10,9 @@ function Earnings() {
         <Chart>
           <IoStatsChart />
         </Chart>
-        <EarningsText>Earnings</EarningsText>
-        <Earning>$7,890</Earning>
-        <EarningsIncrease>+ 10% since last month</EarningsIncrease>
+        <EarningsText>Net Kar</EarningsText>
+        <Earning>147.500₺</Earning>
+        <EarningsIncrease>GEçen aya göre+ 10% kar yaptınız</EarningsIncrease>
       </CardContent>
     </EarningsCard>
   );

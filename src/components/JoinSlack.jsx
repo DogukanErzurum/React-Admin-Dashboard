@@ -11,11 +11,11 @@ function JoinSlack() {
             <FaSlack />
           </SlackLogo>
           <SlackText>
-            <SlackHead>Engage with clients</SlackHead>
-            <SlackFoot>Join slack channel</SlackFoot>
+            <SlackHead>Müşterilerle İletişime Geçin</SlackHead>
+            <SlackFoot>Sohbet Kanalına Katılın</SlackFoot>
           </SlackText>
         </Slack>
-        <SlackJoin>Join Now</SlackJoin>
+        <SlackJoin>Katıl</SlackJoin>
       </CardContent>
     </JoinChannel>
   );

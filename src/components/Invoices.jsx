@@ -15,13 +15,13 @@ function Invoices() {
               <img src={AvatarImage} alt="" />
             </Avatar>
             <TextContainer>
-              <Title>Alexander Williams</Title>
-              <SubTitle>ABC Holdings</SubTitle>
+              <Title>Hakan Yılmaz</Title>
+              <SubTitle>Elektra Bilişim</SubTitle>
             </TextContainer>
           </Info>
           <Container>
-            <Badge content="Paid" paid />
-            <Price>$ 1,200.87</Price>
+            <Badge content="Ödendi" paid />
+            <Price>17.250₺</Price>
           </Container>
         </Invoice>
         <Invoice>
@@ -30,13 +30,13 @@ function Invoices() {
               <img src={AvatarImage2} alt="" />
             </Avatar>
             <TextContainer>
-              <Title>John Philips</Title>
-              <SubTitle>Inchor Associates</SubTitle>
+              <Title>Ece Oduncu</Title>
+              <SubTitle>Oduncu Hukuk Danışmanlığı</SubTitle>
             </TextContainer>
           </Info>
           <Container>
-            <Badge content="Late" late />
-            <Price>$ 1,200.87</Price>
+            <Badge content="Geç" late />
+            <Price>7.500₺</Price>
           </Container>
         </Invoice>
       </CardContent>

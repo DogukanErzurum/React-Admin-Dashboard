@@ -19,20 +19,20 @@ function MainContent() {
             <Info />
           </ColumnOne1>
           <ColumnTwo1>
-            <TitleText>Your Projects</TitleText>
+            <TitleText>Projelerimiz</TitleText>
             <Projects />
           </ColumnTwo1>
         </SectionOne>
         <SectionTwo>
           <ColumnOne2>
             <InvoiceContainer>
-              <TitleText>Recent Invoices</TitleText>
+              <TitleText>Son Ödemeler</TitleText>
               <Invoices />
             </InvoiceContainer>
             <JoinSlack />
           </ColumnOne2>
           <ColumnTwo2>
-            <TitleText>Recommended Project</TitleText>
+            <TitleText>Bekleyen Projeler</TitleText>
             <ProjectRecommendation />
           </ColumnTwo2>
         </SectionTwo>

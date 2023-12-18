@@ -12,8 +12,8 @@ function Projects() {
           <img src={AvatarImage} alt="" />
         </Avatar>
         <Detail>
-          <Title>Logo design for Bakery</Title>
-          <SubTitle>1 day remaining</SubTitle>
+          <Title>Fırın için logo tasarımı</Title>
+          <SubTitle>1 gün kaldı</SubTitle>
         </Detail>
       </Project>
       <Project>
@@ -21,11 +21,11 @@ function Projects() {
           <img src={AvatarImage2} alt="" />
         </Avatar>
         <Detail>
-          <Title>Personal branding project</Title>
-          <SubTitle>5 days remaining</SubTitle>
+          <Title>Kişisel markalaşma projesi</Title>
+          <SubTitle>5 gün kaldı</SubTitle>
         </Detail>
       </Project>
-      <AllProjects>See all projects</AllProjects>
+      <AllProjects>Tüm hazırlama aşamasında ki projeleri görün</AllProjects>
     </YourProjects>
   );
 }

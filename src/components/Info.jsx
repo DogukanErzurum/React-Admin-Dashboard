@@ -10,8 +10,8 @@ function Info() {
           <Row>
             <Digit>98</Digit>
             <InfoContainer>
-              <Title>Rank</Title>
-              <SubTitle>In top 20%</SubTitle>
+              <Title>Müşteri Ortalama Puanınız</Title>
+              <SubTitle>Türkiye Genelinde %20 içindesiniz</SubTitle>
             </InfoContainer>
           </Row>
         </CardContent>
@@ -19,15 +19,11 @@ function Info() {
       <Card>
         <CardContent>
           <Row>
-            <Digit>32</Digit>
+            <Digit>1000</Digit>
             <InfoContainer>
-              <Title>Projects</Title>
-              <SubTitle>8 this month</SubTitle>
+              <Title>Ürün</Title>
+              <SubTitle>Son 3 ayda eklenen yeni ürün sayısı</SubTitle>
             </InfoContainer>
-          </Row>
-          <Row justify>
-            <Badge content="mobile app" glow />
-            <Badge content="branding" glow />
           </Row>
         </CardContent>
       </Card>

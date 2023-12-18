@@ -14,22 +14,21 @@ function ProjectRecommendation() {
               <img src={AvatarImage} alt="" />
             </Avatar>
             <Info>
-              <InfoName>Thomas Martin</InfoName>
-              <InfoUpdate>Updated 10m ago</InfoUpdate>
+              <InfoName>Selim Hayalet</InfoName>
+              <InfoUpdate>Siparişin üzerinden 10 saat geçti.</InfoUpdate>
             </Info>
           </InfoContainer>
-          <Badge content="Design" />
+          <Badge content="Web Sayfası Dizaynı" />
         </Detail>
         <Title>
-          Need a designer to form branding essentials for my business.
+        İşletmem için markalaşma temellerini oluşturacak bir tasarımcıya ihtiyacım var.
         </Title>
         <ProjectInfo>
-          Looking for a talented brand designer to create all the branding
-          materials for my new startup.
+        Tüm markalaşmayı yaratacak yetenekli bir marka web sitesi dizaynı istiyorum. 
         </ProjectInfo>
         <PriceContainer>
-          <Price>$8700/month</Price>
-          <Badge content="Full Time" clean />
+          <Price>15.000₺</Price>
+          <Badge content="Beklemede" clean />
         </PriceContainer>
       </CardContent>
     </RecommendProject>
